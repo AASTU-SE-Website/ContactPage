@@ -10,11 +10,10 @@
 
 #title1 {
     font-size: 40px;
-    margin-left: 60%;
+    text-align: center;
 }
 
 .Help {
-    margin-top: 30px;
     width: 500px;
     padding: 10px;
 }
@@ -41,4 +40,13 @@
 .Person2 {
     display: flex;
     margin-top: 20px;
+}
+
+#firstRow {
+    display: flex;
+    margin-top: 30px;
+}
+
+#firstRow p {
+    margin-left: 200px;
 }
